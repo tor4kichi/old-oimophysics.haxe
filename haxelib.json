@@ -6,8 +6,5 @@
 	"description": "OimoPhysics is 3D Physics engine , distribute from saharan/OimoPhysics AS3 3D Physics engine",
 	"version": "1.0.0",
 	"releasenote": "Initial alpha release",
-	"contributors": [ "tor4kichi" ],
-	"dependencies": {
-		"openfl": "2.0.1"
-	}
+	"contributors": [ "tor4kichi" ]
 }
